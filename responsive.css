@@ -1,112 +1,136 @@
-@media  only screen and (max-width : 1200px) {
-.banjar{
-    height: 220px;
-}
-    .circle-images{
-        img{
+@media only screen and (max-width: 1200px) {
+    .banjar {
+        height: 220px;
+    }
+
+    .circle-images {
+        img {
             width: 64%
         }
     }
 }
-@media only screen and (max-width: 1000px){
-   .card{
-       width: 47%;
-   }
-    .title-content-2{
-        p{
+
+@media only screen and (max-width: 1000px) {
+    .card {
+        width: 47%;
+    }
+
+    .title-content-2 {
+        p {
             font-size: 20px;
         }
     }
 }
-@media only screen and (max-width: 800px){
-.content-1{
-    .food-image{
+
+@media only screen and (max-width: 800px) {
+    .content-1 {
+        .food-image {
+            width: 100%;
+        }
+
+        .food-text {
+            width: 100%;
+        }
+
+        .organic-food {
+            width: 60%;
+            text-align: center;
+        }
+    }
+
+    .card {
         width: 100%;
     }
-    .food-text{
-        width: 100%;
-    }
-    .organic-food{
-        width: 60%;
-        text-align: center;
-    }
-}
-    .card{
-        width: 100%;
-    }
-    .banjar{
+
+    .banjar {
         height: auto;
     }
-    .content-3-text{
+
+    .content-3-text {
         padding: 10px;
         text-align: center;
     }
-    .content-4{
-        .card{
+
+    .content-4 {
+        .card {
             width: 46%;
         }
     }
-    .happy-farming-image{
-       img{
-           width: 100%;
-       }
+
+    .happy-farming-image {
+        img {
+            width: 100%;
+        }
     }
-    .circle-images{
-        img{
+
+    .circle-images {
+        img {
             width: 40%;
         }
 
         text-align: center;
     }
-    .content-7{
-        .content-5-text{
+
+    .content-7 {
+        .content-5-text {
             width: 50%;
         }
     }
 
 }
-@media only screen and (max-width: 650px){
-    .content-1{
-        .organic-food{
+
+@media only screen and (max-width: 650px) {
+    .content-1 {
+        .organic-food {
             width: 95%;
         }
-        .organic-food-image{
+
+        .organic-food-image {
             width: 69%;
         }
     }
-    .content-3{
-        .content-3-text{
+
+    .content-3 {
+        .content-3-text {
             width: 95%;
         }
-        .content-3-image{
+
+        .content-3-image {
             width: 92%;
         }
     }
-    .content-4{
-        .card{
+
+    .content-4 {
+        .card {
             width: 92%;
         }
     }
-    .content-5-text{
+
+    .content-5-text {
         width: 92%;
     }
-    .content-6-cards{
+
+    .content-6-cards {
         padding: 0;
     }
-    .content-7{
-        .content-5-text{
+
+    .content-7 {
+        .content-5-text {
             width: 92%;
             font-size: 20px;
         }
-        .content-3-image{
+
+        .content-3-image {
             width: 100%;
         }
     }
-    .content-8{
-        .map{
+
+    .content-8 {
+        .map {
             width: 100%;
         }
-        .grass-img{
+
+        .grass-img {
             width: 100%;
         }
     }
